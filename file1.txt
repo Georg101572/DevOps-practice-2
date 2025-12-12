@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Yashkin Georg Anatolievich / PI-430B
+commit1
+commit1245251
+=======
+Yashkin G.A. / PI-430B
+Yashkin G.A. / Prikladnaya Informatika 430B
+>>>>>>> bugfix/TASK-3321
